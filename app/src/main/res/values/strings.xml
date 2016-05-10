@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleScoreBoard</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">HOME</string>
+    <string name="number_cero">0</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="visit">VISIT</string>
+</resources>
